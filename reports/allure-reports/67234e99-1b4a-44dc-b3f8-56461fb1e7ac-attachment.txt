@@ -1,3 +1,0 @@
-No exception error 
-I am in finally bloc
-test completed
